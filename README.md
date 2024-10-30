@@ -1,4 +1,4 @@
-I thrive on creating things 💡 and then testing their limits ⚙️🚀
+#🚀I thrive on creating things 💡 and then testing their limits ⚙️
 
 <!--
 **harsaroopsingh/harsaroopsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
